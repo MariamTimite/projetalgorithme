@@ -1,21 +1,17 @@
-ALGORITHME    trianglerectangle
+ALGORITHME  Omelette
 
 var
-        AB, AC, BC: reel
-                 p:booleen
 
-DEBUT
+            oeuf, sel, huile
 
-     ECRIRE("saisir la longeur AB")
-     LIRE(AB)
-     ECRIRE("saisir la longeur AC")
-     LIRE(AC)
-     ECRIRE("saisir la longeur BC")
-     LIRE(BC)
+Debut
 
+ECRIRE("cassez les oeufs")
+ECRIRE("ajoute une pincee de sel")
+ECRIRE("melangez le sel et les oeufs")
+ECRIRE("chauffez l'huile a feu doux")
+ECRIRE("renversez le melange dans l'huile chaude")
+ECRIRE("attendez la cuisson")
+ECRIRE("votre est prete")
 
-       p=(BC*BC=(AB*AB+AC*AC))
-
-          ECRIRE("ce triangle est il rectangle", vrai)
-FIN.
-
+FIN
