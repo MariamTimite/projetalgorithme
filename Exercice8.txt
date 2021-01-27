@@ -1,0 +1,21 @@
+ALGORITHME    trianglerectangle
+
+var
+        AB, AC, BC: reel
+                 p:booleen
+
+DEBUT
+
+     ECRIRE("saisir la longeur AB")
+     LIRE(AB)
+     ECRIRE("saisir la longeur AC")
+     LIRE(AC)
+     ECRIRE("saisir la longeur BC")
+     LIRE(BC)
+
+
+       p=(BC*BC=(AB*AB+AC*AC))
+
+          ECRIRE("ce triangle est il rectangle", vrai)
+FIN.
+

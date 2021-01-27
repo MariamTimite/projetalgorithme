@@ -1,0 +1,35 @@
+EXERCICE2
+
+
+ ALGORITHME          produit
+
+var 
+       
+             nb1, nb2: entier
+
+
+DEBUT
+
+     
+        AFFICHER("veuillez saisir votre nombre 1")
+   
+        SAISIR(nb1)
+
+   
+        AFFICHER("veuillez saisir votre nombre 2")
+   
+        SAISIR(nb2)
+
+     
+           si (nb1>0 et nb2< 0) ou (nb1<0 et nb2> 0) alors
+           
+                  AFFICHER("le produit de ces nombres est négatif")
+        
+           sinon
+              
+                   AFFICHER("le produit de ces nombres est positif")
+   
+           Finsi
+
+FIN.
+

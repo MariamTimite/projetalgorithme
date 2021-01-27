@@ -1,0 +1,57 @@
+EXERCICE 4
+
+
+
+
+ALGORITHME     categorie
+
+  
+           var
+      age: entier
+
+
+DEBUT
+
+
+AFFICHER("Veuillez entrer l'age de l'enfant")
+
+SAISIR(age)
+
+   
+      si  age>=6 et age>=7 alors
+    
+           AFFICHER( "chic poussin!!!")
+        
+       sinon 
+               
+              si age>=8 et age<=9 alors
+                
+                    AFFICHER("chic pupille!!!")
+                 
+             sinon 
+                        
+                  si  age>=10 et age<=11 alors
+                   
+                      AFFICHER("vous etes minime!!!")
+                       
+                  sinon 
+                                 
+                          si age>12 alors 
+                    
+                                 AFFICHER("vous etes un cadet") 
+    
+                          sinon
+                  
+                                    AFFICHER("Desolé!!!")
+                     
+                          finsi
+                          
+                  finsi
+              
+             finsi
+  
+      finsi
+
+FIN.
+
+OUI!!!, on peut concevoir plusieurs algorithmes menant a ce résultat

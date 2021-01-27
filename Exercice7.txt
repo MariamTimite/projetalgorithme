@@ -1,0 +1,17 @@
+ALGORITHME  Omelette
+
+var
+
+            oeuf, sel, huile
+
+Debut
+
+ECRIRE("cassez les oeufs")
+ECRIRE("ajoute une pincee de sel")
+ECRIRE("melangez le sel et les oeufs")
+ECRIRE("chauffez l'huile a feu doux")
+ECRIRE("renversez le melange dans l'huile chaude")
+ECRIRE("attendez la cuisson")
+ECRIRE("votre est prete")
+
+FIN
