@@ -1,0 +1,32 @@
+ALGORITHME                            posi_nega
+
+
+
+var  
+                         
+           nb: entier
+
+
+DEBUT 
+
+                    
+      
+AFFICHER( "veuillez saisir votre nombre")
+
+      SAISIR(nb)
+
+   
+
+        si  nb>0 alors
+        
+             AFFICHER( "votre nombre est positif")
+         
+     
+        sinon
+             
+             AFFICHER("votre nombre est négatif")
+   
+
+        Finsi
+
+FIN
