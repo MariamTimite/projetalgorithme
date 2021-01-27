@@ -1,0 +1,24 @@
+EXERCICE 3
+
+ALGORITHME      ordre_alphabetique
+
+Var
+          A, b, c: caractère
+
+DEBUT
+
+
+          LIRE(‘saisissez la première lettre ‘)
+          SAISIR(a)
+          LIRE(‘entrez la deuxième lettre’)
+          SAISIR(b)
+          LIRE(‘saisissez la troisième lettre ‘)
+          SAISIR(c)
+
+                      Si a<b et a<c et b<c alors
+                                 LIRE(‘les lettres sont en ordre croissante dont alphabétique’)
+                      Sinon 
+                                 LIRE(‘les lettres ne sont pas dans l’ordre alphabétique ’)
+                      Finsi
+
+FIN.
